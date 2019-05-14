@@ -1,4 +1,4 @@
-/*!
+caro/*!
  * Bootstrap v4.1.2 (https://getbootstrap.com/)
  * Copyright 2011-2018 The Bootstrap Authors
  * Copyright 2011-2018 Twitter, Inc.
@@ -936,9 +936,11 @@ pre code {
     -ms-flex-order: 4;
     order: 4;
   }
-  .order-sm-5 {
-    -ms-flex-order: 5;
-    order: 5;
+  .myclass {
+    padding-left: 200px;
+  }
+  .myclass2 {
+    padding-top: 15px
   }
   .order-sm-6 {
     -ms-flex-order: 6;
