@@ -5,6 +5,7 @@ caro/*!
  * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
  */
 :root {
+  --color1:#FC445
   --blue: #007bff;
   --indigo: #6610f2;
   --purple: #6f42c1;
@@ -941,6 +942,9 @@ pre code {
   }
   .myclass2 {
     padding-top: 15px
+  }
+  .myclass3{
+    padding-bottom: 50px
   }
   .order-sm-6 {
     -ms-flex-order: 6;
@@ -6080,6 +6084,17 @@ button.close {
   background-color: #007bff !important;
 }
 
+.bg-color-1 {
+  background-color: #FC4445 !important;
+}
+
+.bg-color-2 {
+  background-color: #55BCC9 !important;
+}
+
+.bg-color-3 {
+  background-color: #CAFAFE !important;
+}
 a.bg-primary:hover, a.bg-primary:focus,
 button.bg-primary:hover,
 button.bg-primary:focus {
