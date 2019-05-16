@@ -946,6 +946,13 @@ pre code {
   .myclass3{
     padding-bottom: 50px
   }
+  .myclass4 {
+    padding-left: 50px;
+  }
+  
+  .myclass6 {
+    padding-bottom: 110px;
+  }
   .order-sm-6 {
     -ms-flex-order: 6;
     order: 6;
