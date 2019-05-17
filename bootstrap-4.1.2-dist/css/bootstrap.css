@@ -6092,16 +6092,20 @@ button.close {
 }
 
 .bg-color-1 {
-  background-color: #FC4445 !important;
+  background-color: #FB6542 !important;
 }
 
 .bg-color-2 {
-  background-color: #55BCC9 !important;
+  background-color: #FFBB00 !important;
 }
 
 .bg-color-3 {
-  background-color: #CAFAFE !important;
+  background-color: #4CB5F5 !important;
 }
+
+.bg-color-4 { 
+  background-color:#FF3B3F;
+} 
 a.bg-primary:hover, a.bg-primary:focus,
 button.bg-primary:hover,
 button.bg-primary:focus {
