@@ -953,6 +953,13 @@ pre code {
   .myclass6 {
     padding-bottom: 110px;
   }
+  
+  .myclass7 {
+    padding-top: 100px;
+  }
+  .myclass8 { 
+    padding-bottom: 100px;
+  } 
   .order-sm-6 {
     -ms-flex-order: 6;
     order: 6;
@@ -6092,15 +6099,15 @@ button.close {
 }
 
 .bg-color-1 {
-  background-color: #FB6542 !important;
+  background-color: #9DBAB5 !important;
 }
 
 .bg-color-2 {
-  background-color: #FFBB00 !important;
+  background-color:#C0D5D2!important;
 }
 
 .bg-color-3 {
-  background-color: #4CB5F5 !important;
+  background-color: #B6E3DD !important;
 }
 
 .bg-color-4 { 
