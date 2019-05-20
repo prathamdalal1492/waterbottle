@@ -6198,7 +6198,7 @@ button.bg-dark:focus {
 }
 
 .border {
-  border: 1px solid #dee2e6 !important;
+  border: 20px solid #dee2e6 !important;
 }
 
 .border-top {
@@ -6274,7 +6274,7 @@ button.bg-dark:focus {
 }
 
 .rounded {
-  border-radius: 0.25rem !important;
+  border-radius: 0.4rem !important;
 }
 
 .rounded-top {
